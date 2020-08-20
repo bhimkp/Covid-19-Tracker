@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Yo can see the demo of this project at [demo](https://bhim.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
